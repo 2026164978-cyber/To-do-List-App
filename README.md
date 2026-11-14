@@ -1,1 +1,1 @@
-
+This website features a to-do list, an introduction to our team members and their individual takeaways from the Fundamentals of Computing Course. It also provides access to our video presentations and project documentation.
